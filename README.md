@@ -47,7 +47,7 @@ stock-risk-profiling/
 ---
 
 
-[See the notebook here](notebooks/01_pca_clustering_stocks.ipynb)
+[See the notebook here](stock-risk-profiling/notebooks)
 
 
 
